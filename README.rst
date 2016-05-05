@@ -40,7 +40,7 @@ OR
 
 From Github sources::
 
-    git clone git://github.com/ebrehault/resurrectio.git
+    git clone git://github.com/RIKSOF/resurrectio.git
 
 It will produce a ./resurrectio folder.
 
@@ -95,6 +95,8 @@ Author
 * Eric BREHAULT <eric.brehault@makina-corpus.org>
 
 * Resurrectio event recorder is based on the zope.recorder tool, created by Brian Lloyd <brian@zope.com>
+
+* RIKSOF (Private) Limited <info@riksof.com>
 
 Companies
 ---------
